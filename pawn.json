@@ -1,0 +1,14 @@
+{
+	"user": "Xleone1",
+	"repo": "TelevenRP",
+	"tag": "0.0.1",
+	"entry": "tvrp.pwn",
+	"output": "gamemodes/tvrp.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib"
+	],
+	"local": true,
+	"runtime": {
+		"mode": "y_testing"
+	}
+}
